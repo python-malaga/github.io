@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empresas on Python Malaga</title>
+    <link>https://python-malaga.github.io/empresas/</link>
+    <description>Recent content in Empresas on Python Malaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 12:45:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://python-malaga.github.io/empresas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empresas</title>
+      <link>https://python-malaga.github.io/empresas/empresas/</link>
+      <pubDate>Sat, 27 Jun 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/empresas/empresas/</guid>
+      <description>Empresas Python Friendly Empresas de la provincia de Málaga que usan Python para el desarrollo de sus productos y que son colaboradoras de Python Málaga.</description>
+    </item>
+    
+  </channel>
+</rss>

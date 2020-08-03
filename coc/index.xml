@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocs on Python Malaga</title>
+    <link>https://python-malaga.github.io/coc/</link>
+    <description>Recent content in Cocs on Python Malaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 12:45:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://python-malaga.github.io/coc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Código de Conducta</title>
+      <link>https://python-malaga.github.io/coc/codigo-conducta/</link>
+      <pubDate>Sat, 27 Jun 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/coc/codigo-conducta/</guid>
+      <description>Código de Conducta   Todos los asistentes y participantes en los eventos de python malága deberán acatar el presente código de conducta
+  Se entiende por acoso todo comentario ofensivo alusivo al sexo, preferencias sexuales, discapacidades, aspecto físico, etnias y religiones; toda pornografía en espacios públicos; toda intimidación deliberada, acecho o persecución; todo acoso mediante fotografías o grabaciones; toda interrupción constante de charlas u otras actividades; todo contacto físico inapropiado y toda propuesta sexual no deseada.</description>
+    </item>
+    
+  </channel>
+</rss>

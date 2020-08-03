@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Python Malaga</title>
+    <link>https://python-malaga.github.io/post/</link>
+    <description>Recent content in Posts on Python Malaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2020 12:45:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://python-malaga.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python málaga primer evento 2020</title>
+      <link>https://python-malaga.github.io/post/meetup-marzo-2020/</link>
+      <pubDate>Fri, 28 Feb 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/post/meetup-marzo-2020/</guid>
+      <description>Meetup marzo 2020 El evento se celebrara en Málaga el 4 de Marzo en las instalaciones de The Living Room Coworking.
+Agenda: Introducción al testeo con mocks Explicaremos brevemente como poder testear nuestro código python con mocks para no depender de nadie a la hora de probar nuestro código.
+Python Features 3.5++ Donde daremos un repaso a las funcionalidades y características del lenguaje introducidas desde la versión 3.5 por Jose Alberto Torres (Duración 15-20 minutos)</description>
+    </item>
+    
+  </channel>
+</rss>

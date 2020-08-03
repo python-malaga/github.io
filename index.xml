@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Malaga</title>
+    <link>https://python-malaga.github.io/</link>
+    <description>Recent content on Python Malaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 12:45:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://python-malaga.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asociación</title>
+      <link>https://python-malaga.github.io/asociacion/python-malaga/</link>
+      <pubDate>Sat, 27 Jun 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/asociacion/python-malaga/</guid>
+      <description>Asociación La asociación Python Málaga se ha creado con el propósito de servir como punto de encuentro a aquellos interesados en el lenguage de programación Python y sus aplicaciones.
+Si quieres apoyar nuestra labor para que podamos abordar proyectos más ambiciosos, ponte en contacto con nosotros.
+Estamos deseando escuchar vuestras propuestas.</description>
+    </item>
+    
+    <item>
+      <title>Código de Conducta</title>
+      <link>https://python-malaga.github.io/coc/codigo-conducta/</link>
+      <pubDate>Sat, 27 Jun 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/coc/codigo-conducta/</guid>
+      <description>Código de Conducta   Todos los asistentes y participantes en los eventos de python malága deberán acatar el presente código de conducta
+  Se entiende por acoso todo comentario ofensivo alusivo al sexo, preferencias sexuales, discapacidades, aspecto físico, etnias y religiones; toda pornografía en espacios públicos; toda intimidación deliberada, acecho o persecución; todo acoso mediante fotografías o grabaciones; toda interrupción constante de charlas u otras actividades; todo contacto físico inapropiado y toda propuesta sexual no deseada.</description>
+    </item>
+    
+    <item>
+      <title>Empresas</title>
+      <link>https://python-malaga.github.io/empresas/empresas/</link>
+      <pubDate>Sat, 27 Jun 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/empresas/empresas/</guid>
+      <description>Empresas Python Friendly Empresas de la provincia de Málaga que usan Python para el desarrollo de sus productos y que son colaboradoras de Python Málaga.</description>
+    </item>
+    
+    <item>
+      <title>Python málaga primer evento 2020</title>
+      <link>https://python-malaga.github.io/post/meetup-marzo-2020/</link>
+      <pubDate>Fri, 28 Feb 2020 12:45:14 +0200</pubDate>
+      
+      <guid>https://python-malaga.github.io/post/meetup-marzo-2020/</guid>
+      <description>Meetup marzo 2020 El evento se celebrara en Málaga el 4 de Marzo en las instalaciones de The Living Room Coworking.
+Agenda: Introducción al testeo con mocks Explicaremos brevemente como poder testear nuestro código python con mocks para no depender de nadie a la hora de probar nuestro código.
+Python Features 3.5++ Donde daremos un repaso a las funcionalidades y características del lenguaje introducidas desde la versión 3.5 por Jose Alberto Torres (Duración 15-20 minutos)</description>
+    </item>
+    
+  </channel>
+</rss>
